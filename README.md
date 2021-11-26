@@ -18,3 +18,6 @@
 [Click me]("www.gmail.com")
 
 [Google]("www.google.com")
+
+# Image in Readme File
+![Virat](kohli.jpg)
