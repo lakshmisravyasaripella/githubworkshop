@@ -21,3 +21,39 @@
 
 # Image in Readme File
 ![Virat](kohli.jpg)
+
+# Table
+|S.No|Name|Branch|Roll-Number|
+|----|----|------|-----------|
+|1|Surya|CSE|535|
+|2|Swami|CSE|507|
+|3|Aditya|CSE|20501|
+
+# List
+## Ordered List
+1. Name
+2. Roll Number
+3. Branch
+4. College
+
+## Unordered List
+- Name
+- Roll Number
+- Branch
+
+
+* Name
+* Roll Number
+* Branch
+
+## Nested List
+1. Name
+   1. First
+   2. Last
+   3. Middle Name
+2. Github
+   1. Username
+   2. Mail ID
+   3. Password
+
+
