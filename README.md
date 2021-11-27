@@ -56,4 +56,13 @@
    2. Mail ID
    3. Password
 
+```Python
+   def hello()
+      a=10
+      b=20
+      c=30
+      if a%2==0
+   print(a+b+c)
+```
+
 
